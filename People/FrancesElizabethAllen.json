@@ -1,0 +1,88 @@
+{
+  "full_name": "Frances Elizabeth Allen",
+  "common_name": "Fran",
+  "pronouns": [
+    {
+      "subject": "she",
+      "object": "her",
+      "possessive": "hers"
+    }
+  ],
+  "birth_year": 1932,
+  "description": "Frances E. \"Fran\" Allen is a computer scientist pionner in compilers, program optimization, and parallel computers. She was the first woman to win the prestigious Turing Award in 2006.",
+  "associations": [],
+  "education": [
+    {
+      "institution": "State University of New York at Albany",
+      "location": {
+        "country_full_name": "United States",
+        "country_common_name": "US",
+        "country_abbreviation": "US",
+        "region": "New York",
+        "region_abbreviation": "NY"
+      },
+      "field_of_study": "Mathematics",
+      "degree_title": "B.Sc.",
+      "end_year": 1954
+    },
+    {
+      "institution": "University of Michigan",
+      "location": {
+        "country_full_name": "United States",
+        "country_common_name": "US",
+        "country_abbreviation": "US",
+        "region": "Michigan",
+        "region_abbreviation": "MI"
+      },
+      "field_of_study": "Mathematics",
+      "degree_title": "M.Sc.",
+      "end_year": 1957
+    }
+  ],
+  "employment": [
+    {
+      "company": "IBM",
+      "location": {
+        "country_full_name": "United States",
+        "country_common_name": "US",
+        "country_abbreviation": "US",
+        "region": "New York",
+        "region_abbreviation": "NY"
+      },
+      "job": "Programmer/Researcher",
+      "notes": "In 1989, she was the first woman to become an IBM Fellow.",
+      "start_year": 1957,
+      "end_year": 2002
+    }
+  ],
+  "accomplishment": [
+    {
+      "type": "Honor",
+      "description": "IBM Fellow is the highest honor that a scientist, engineer, or programmer can achieve at IBM.",
+      "short_description": "IBM Fellow",
+      "year": 1989
+    },
+    {
+      "type": "Award",
+      "description": "ACM Fellowship that recognises outstanding people who excel at advanced computing.",
+      "short_description": "ACM Fellow",
+      "year": 1994
+    },
+    {
+      "type": "Award",
+      "description": "Ada Lovelace Award",
+      "year": 2002
+    },
+    {
+      "type": "Award",
+      "description": "Frances Allen was the first woman to win the Turing Award.",
+      "short_description": "Turing Award",
+      "year": 2006
+    },
+    {
+      "type": "Honor",
+      "description": "IBM Ph.D. Fellowship Award was created in her honor",
+      "year": 2007
+    }
+  ]
+}
